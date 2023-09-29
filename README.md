@@ -1,7 +1,7 @@
 # vzdump2influx
 ## Proxmox backup stats to InfluxDB ##
 
-Just a simple script to wtite some stats to InfluxDB about your backup. Based on vzdump hook method.
+Just a simple script to write some stats to InfluxDB about your backup. Based on vzdump hook method.
 
 Please don't hesitate, and contact me if you found a bug, or you have any idea for this script.
 
